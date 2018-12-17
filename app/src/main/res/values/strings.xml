@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Superhero Registration</string>
+    <string name="name_edit_hint">Nombre</string>
+    <string name="last_name_edit_hint">Apellido</string>
+    <string name="hero_name_edit_hint">Nombre de héroe</string>
+    <string name="age_edit_hint">Edad</string>
+    <string name="address_edit_hint">Dirección</string>
+    <string name="city_edit_hint">Ciudad</string>
+    <string name="registration_button">REGISTRAR</string>
 </resources>
