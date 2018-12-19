@@ -7,8 +7,8 @@
     tools:context=".DetailActivity">
 
     <TextView
+        android:id="@+id/hero_data"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Nueva pantalla"/>
+        android:layout_height="wrap_content" />
 
 </android.support.constraint.ConstraintLayout>
